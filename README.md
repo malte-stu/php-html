@@ -1,3 +1,3 @@
-Aufgabe:
+Aufgaben:
 - Raumschiff
 - Blog
